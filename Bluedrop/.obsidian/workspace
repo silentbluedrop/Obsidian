@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "7833fe3e584ff172",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8599fd2975eb19c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "游戏技术/地牢.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db55e1784935688a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec85c5b62f897f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb19c3a2b47292da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8eba85389b045963",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#find",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0bb36f2e966b510",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd2dda7b914402f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbe3a80b8a84d75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "游戏技术/地牢.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b1d9a9942470a483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a8599fd2975eb19c",
+  "lastOpenFiles": [
+    "游戏技术/地牢.md",
+    "考考研/数学.md",
+    "Linux笔记/命令.md",
+    "Untitled.md",
+    "Linux笔记/做法.md",
+    "How to build it.md",
+    "游戏技术/游戏地图.md",
+    "Linux笔记/Untitled 1.md",
+    "Untitled 1.md",
+    "考考研/线性代数.md"
+  ]
+}
