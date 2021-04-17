@@ -1,0 +1,2 @@
+# Obsidian
+Note Document
