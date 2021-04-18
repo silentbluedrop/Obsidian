@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "游戏技术/地牢.md",
+            "file": "考考研/线性代数.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "96609af723977cdd"
+      },
+      {
+        "id": "441d8f989c730029",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考考研/线性代数.md",
+            "mode": "preview"
+          }
+        },
+        "group": "96609af723977cdd"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#find",
+                "query": "tag:#path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏技术/地牢.md",
+                "file": "考考研/线性代数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +110,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a8599fd2975eb19c",
+  "active": "441d8f989c730029",
   "lastOpenFiles": [
-    "游戏技术/地牢.md",
-    "考考研/数学.md",
-    "Linux笔记/命令.md",
-    "Untitled.md",
-    "Linux笔记/做法.md",
-    "How to build it.md",
-    "游戏技术/游戏地图.md",
-    "Linux笔记/Untitled 1.md",
-    "Untitled 1.md",
-    "考考研/线性代数.md"
+    "考考研/线性代数.md",
+    "考考研/英语.md",
+    "考考研/政治.md",
+    "考考研/专业课.md",
+    "考考研/为什么考研.md",
+    "考考研/考研笔记.md",
+    "LearnObsidian/Text2.md",
+    "LearnObsidian/Text1.md",
+    "Linux笔记/查找文件.md",
+    "考考研/数学.md"
   ]
 }
